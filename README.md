@@ -6,7 +6,7 @@ Make short link by using [Droplink](https://doodstream.com/settings) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/aashish2548)](https://heroku.com/deploy)
 
 ##### Required Variables
 
